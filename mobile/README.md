@@ -1,11 +1,11 @@
-
 <h2 align="center">
-:computer: Desktop Preview :computer:
-</h2>  
+:iphone: Mobile :iphone:
+</h2>
 
 <p align="center">
-  <img alt="desktop" src="../.github/Desktop.gif" width="700px">
+  <img alt="mobile" src="../.github/Mobile.gif" width="250px">
 </p>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/SemanaOmnistack11?color=%2304D361">
 
